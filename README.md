@@ -1,2 +1,2 @@
 # crudLibrary
-CRUD library/bookstore application
+React | Node.js | MySQL 
